@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d6bda896660f0a42ad7f306825e532b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 150
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Jx Tabe DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 199fb25bd82a6564ca07564649b33a1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
